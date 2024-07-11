@@ -1,3 +1,6 @@
+## Usage example:
+![img](https://github.com/shgpavel/weather_micro/blob/09a36a87c9940647919577a34a051cc8c7c13a2c/Thu%20Jul%2011%2015%3A29%3A43%20MSK%202024.png)
+
 ## Overview:
 	Simple app that creates /opt/weather_app/weather file
 	with current geolocation weather data
